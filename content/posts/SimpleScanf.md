@@ -1,7 +1,7 @@
 ---
 title: "SimpleScanf"
 date: 2018-08-20T19:39:13+05:30
-draft: true
+draft: false
 ---
 
 

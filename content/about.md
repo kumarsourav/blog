@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-08-15T20:32:37+05:30
-draft: true
+draft: false
 ---
 
 Hello, Welcome to my blog.

@@ -2,6 +2,7 @@ baseURL = "https://kumarsourav.github.io/"
 languageCode = "en-us"
 title = "/dev/random"
 theme = "one"
+googleAnalytics = "UA-124815281-1"
 
 # Chroma Syntax Highlighting
 pygmentsCodefences = true
